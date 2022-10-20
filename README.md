@@ -28,7 +28,9 @@ from tensorflow import keras
                         Normalizing Data
                         SPLIT THE DATA INTO TRAIN/VALIDATION/TEST DATASETS - 60,000 datasets for training and 10,000 test datasets. I further split the data into train/validation. validation data is used for tuning the hyperparameters and evaluate the models, IT IS used to optimized the performance of our models
                         Created the Neural Network using KNN
-                        ![image](https://user-images.githubusercontent.com/64482231/196856893-976614bd-735f-44fa-b81e-3279c020ba16.png)
+
+![image](https://user-images.githubusercontent.com/64482231/196857346-ccaea5b1-1ea3-40be-9cbe-06ab63a28918.png)
+
 
 
                         COMPILE AND TRAIN MODEL
