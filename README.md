@@ -33,7 +33,9 @@ from tensorflow import keras
 
                         COMPILE AND TRAIN MODEL
                         plot how our accuracy are changing with each epoch - 
-                        ![image](https://user-images.githubusercontent.com/64482231/196857007-2b5a7035-dc1c-40e6-ab05-c03913f6fc28.png)
+
+![image](https://user-images.githubusercontent.com/64482231/196857283-28780eba-1cd6-4ea5-b8a2-90fa94c46b5d.png)
+
 
 
                         with each epoch, the training accuracy and the validation accuracy is increasing and the loss is decreasing
